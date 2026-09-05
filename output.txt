@@ -1,0 +1,41 @@
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/portfolio_tracker`
+
+🚀 WELCOME TO PORTFOLIO TRACKER
+================================
+
+✅ Asset added successfully!
+✅ Asset added successfully!
+✅ Asset added successfully!
+✅ Asset added successfully!
+
+╔══════════════════════════════════════════════════════════════╗
+║                    📊 PORTFOLIO SUMMARY                     ║
+╚══════════════════════════════════════════════════════════════╝
+
+ASSET        SYMBOL   QUANTITY     PRICE (USD)     VALUE (USD) 
+------------ -------- ------------ --------------- ------------
+Bitcoin      BTC      0.5000       $60000.00        $30000.00     (61.9%)
+Ethereum     ETH      5.0000       $3000.00         $15000.00     (31.0%)
+Solana       SOL      20.0000      $150.00          $3000.00      (6.2%)
+Cardano      ADA      1000.0000    $0.45            $450.00       (0.9%)
+------------ -------- ------------ --------------- ------------
+TOTAL                                              $48450.00    
+
+📈 ASSET ALLOCATION:
+  ADA   0.9% 
+  ETH  31.0% ███████████████
+  BTC  61.9% ██████████████████████████████
+  SOL   6.2% ███
+
+✅ Total Portfolio Value: $48450.00
+
+
+🔍 CHECKING SPECIFIC ASSET:
+  Ethereum (ETH) value: $15000.00
+  Dogecoin (DOGE): Not in portfolio ❌
+
+💰 TOTAL PORTFOLIO VALUE: $48450.00
+
+👋 Thanks for using Portfolio Tracker!
+
